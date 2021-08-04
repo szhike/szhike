@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @szhike
-- 📫 How to reach me https://szhike.github.io
+<!--- - 📫 How to reach me --->
 - 🌱 Wish you a happy day!
 
 <!---
